@@ -14,4 +14,4 @@ Building tools that make AI coding agents safer, more trustworthy, and more reli
 
 **Latest:** [AI Agent Dependency Risk Analysis](https://github.com/SatishoBananamoto/ai-agent-dependency-risk) — vigil scanning 12 frameworks including CrewAI, LangChain, Semantic Kernel, and both Anthropic/OpenAI SDKs.
 
-**Stats:** 7 tools, 20k+ LOC, 830+ tests, 6 on PyPI, 100+ cross-project knowledge entries.
+**Stats:** 7 tools, 34k+ source lines, 1.3k+ test functions, 6 on PyPI, 100+ cross-project knowledge entries.
