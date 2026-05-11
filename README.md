@@ -5,6 +5,7 @@ Building tools that make AI coding agents safer, more trustworthy, and more reli
 | Tool | What it does | Install |
 |------|-------------|---------|
 | [caliber](https://github.com/SatishoBananamoto/caliber) | Trust protocol — prove capability through calibration | `pip install caliber-trust` |
+| [ICIF-AES Verifier](https://github.com/SatishoBananamoto/AI-Agents-Failure-Modes) | Deterministic epistemic gates for AI agent claims | API / CLI |
 | [vigil](https://github.com/SatishoBananamoto/vigil) | Dependency health scanning | `pip install vigil-risk` |
 | [svx](https://github.com/SatishoBananamoto/svx) | Safety layer — simulate before execute | `pip install svx` |
 | [probe](https://github.com/SatishoBananamoto/probe) | MCP server security scanner | `pip install mcp-probe` |
@@ -14,4 +15,4 @@ Building tools that make AI coding agents safer, more trustworthy, and more reli
 
 **Latest:** [AI Agent Dependency Risk Analysis](https://github.com/SatishoBananamoto/ai-agent-dependency-risk) — vigil scanning 12 frameworks including CrewAI, LangChain, Semantic Kernel, and both Anthropic/OpenAI SDKs.
 
-**Stats:** 7 tools, 34k+ source lines, 1.3k+ test functions, 6 on PyPI, 100+ cross-project knowledge entries.
+**Stats:** 8 tools, 35k+ source lines, 1.3k+ test functions, 6 on PyPI, 100+ cross-project knowledge entries.
