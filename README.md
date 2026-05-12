@@ -13,6 +13,6 @@ Building tools that make AI coding agents safer, more trustworthy, and more reli
 | [engram](https://github.com/SatishoBananamoto/engram) | Cross-project knowledge system | MCP server |
 | [kv-secrets](https://github.com/SatishoBananamoto/kv-secrets) | Encrypted secrets for AI agents | `pip install kv-secrets` |
 
-**Latest:** [AI Agent Dependency Risk Analysis](https://github.com/SatishoBananamoto/ai-agent-dependency-risk) — vigil scanning 12 frameworks including CrewAI, LangChain, Semantic Kernel, and both Anthropic/OpenAI SDKs.
+**Latest:** [AI Agent Dependency Risk Analysis](https://github.com/SatishoBananamoto/ai-agent-dependency-risk) — vigil reports across AI frameworks, SDKs, security tools, and infrastructure, with a freshness guard for stale snapshots.
 
-**Stats:** 8 tools, 35k+ source lines, 1.3k+ test functions, 6 on PyPI, 100+ cross-project knowledge entries.
+**Stats:** 8 tools, 36k+ source lines, 1.4k+ test functions, 6 on PyPI, 100+ cross-project knowledge entries.
